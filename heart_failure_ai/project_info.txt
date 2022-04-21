@@ -1,1 +1,7 @@
+THIS PROJECT IS CURRENTLY A WORK IN PROGRESS
 
+FEATURES TO BE ADDED: 
+  * Additional AI Methods (Logistic Regression, Decision Tree Random Forest, Gradient Boosting)
+  * GUI Interface to be interacted with (Add additional data to dataset)
+  * Add more functionality to HeartFailureRisk Attribute (Determine percentage risk)
+  * More features TBD
